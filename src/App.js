@@ -6,12 +6,11 @@ import NavBar from './components/NavBar/index'
 class App extends Component {
   render() {
     return (
-      <div className='row'>
-        <div className='nav-bar col-md'>
-        <p> Nav Bar goes here </p>
-        </div>
-       
+      <div>
+        <NavBar />
       </div>
+       
+
     );
   }
 }
