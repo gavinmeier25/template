@@ -3,10 +3,10 @@ import React, { Component } from "react";
 class ReactNavBar extends Component {
   render() {
     return (
-      <div className="row navbar-light bg-light">
+      <div className="row-xs-12 navbar-light bg-light">
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-          <a className="navbar-brand" href="#">
-            Navbar
+          <a className="navbar-brand mesa-inc" href="#">
+            Software Solutions
           </a>
           <button
             className="navbar-toggler"

@@ -1,4 +1,4 @@
-.search-btn {
+ .search-btn {
   color: black;
   outline-color: black;
   font-weight: 100;
@@ -6,6 +6,11 @@
 }
 
 
+/* .mesa-inc {
+  margin-right: 24%;
+  font-weight: 400;
+  font-size: 200%
+}  */
 
 
 /* .App {
